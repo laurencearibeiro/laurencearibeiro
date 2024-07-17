@@ -10,7 +10,7 @@
 
 📖 Atualmente, estou focado no desenvolvimento em Análise de Dados, com habilidades técnicas em Python, SQL, modelos de Machine Learning, fundamentos de Estatística e visualização de dados. 
 
-## Tecnologias que possuo conhecimento 👨🏻‍💻
+## Tecnologias 👨🏻‍💻
 
 ![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
