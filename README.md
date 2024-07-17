@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, meu nome é Laurence Alves Ribeiro!
 
-<!--
-**laurencedata/laurencedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Contact](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/laurencealvesribeiro)
+[![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
+[![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Here are some ideas to get you started:
+📊 Sou um admirador da tecnologia e dos dados. A tecnologia sempre fez parte da minha vida, e ao longo de 3 anos de experiência em marketing digital, desenvolvi um profundo interesse pela análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗾 Tenho como objetivo gerar ideias e insights orientados por dados, ajudando as empresas a alcançarem seus objetivos estratégicos.
+
+📖 Atualmente, estou focado no desenvolvimento em Análise de Dados, com habilidades técnicas em Python, SQL, modelos de Machine Learning, fundamentos de Estatística e visualização de dados no Looker Studio. 
+
+## Tecnologias que possuo conhecimento: 👨🏻‍💻
+
+![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Skills](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
