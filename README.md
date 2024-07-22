@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-📊 Sou um admirador da tecnologia e dos dados. A tecnologia sempre fez parte da minha vida, e ao longo de 3 anos de experiência em marketing digital, desenvolvi um profundo interesse pela análise de dados.
+📊 Sou um admirador da tecnologia e dos dados. A tecnologia sempre fez parte da minha vida, ao longo de 3 anos de experiência em marketing digital, aprofundei meu interesse pela análise de dados.
 
 🗾 Tenho como objetivo gerar ideias e insights orientados por dados, ajudando as empresas a alcançarem seus objetivos estratégicos.
 
