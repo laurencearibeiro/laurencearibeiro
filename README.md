@@ -8,7 +8,7 @@
 
 🗾 Tenho como objetivo gerar ideias e insights orientados por dados, ajudando as empresas a alcançarem seus objetivos estratégicos.
 
-📖 Atualmente, estou focado no desenvolvimento em Análise de Dados, com habilidades técnicas em Python, SQL, modelos de Machine Learning, fundamentos de Estatística e visualização de dados. 
+📖 Atualmente, estou em desenvolvimento em Análise de Dados, com habilidades técnicas em Python, SQL, modelos de Machine Learning, fundamentos de Estatística e visualização de dados. 
 
 ## 👨🏻‍💻 Tecnologias:
 
