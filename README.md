@@ -4,11 +4,13 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-📊 Sou um admirador da tecnologia e dos dados. A tecnologia sempre fez parte da minha vida, ao longo de 3 anos de experiência em marketing digital, aprofundei meu interesse pela análise de dados.
+👋🏻 Sou um profissional de Marketing Digital com mais de 2 anos de experiência no setor analítico. Durante os anos de experiência nesta área, pude desenvolver minha maturidade, comunicação e foco na resolução de problemas.
 
-🗾 Tenho como objetivo gerar ideias e insights orientados por dados, ajudando as empresas a alcançarem seus objetivos estratégicos.
+📊 Trabalhar com grande volume de dados despertou o meu interesse pela área de dados. Desde então, busco qualificação, com o objetivo de interpretar dados de maneira eficaz e transformá-los em informações relevantes que possam orientar a tomada de decisão.
 
-📖 Atualmente, estou em desenvolvimento em Análise de Dados, com habilidades técnicas em Python, SQL, modelos de Machine Learning, fundamentos de Estatística e visualização de dados. 
+📑 Estou me desenvolvendo em cursos e treinamentos em Análise de Dados, com conhecimentos técnicos em Python, SQL, modelos preditivos de Machine Learning, fundamentos de Estatística e visualização de dados. 
+
+🎯 Procuro oportunidades no mercado de dados, com o objetivo de aplicar técnicas para otimizar estratégias, solucionar problemas e gerar insights. O meu foco é agregar valor às organizações e contribuir para alcançar os resultados.
 
 ## 👨🏻‍💻 Tecnologias:
 
