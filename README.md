@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-👋🏻 Sou um profissional de Marketing Digital com mais de 2 anos de experiência no setor analítico. Durante os anos de experiência nesta área, pude desenvolver minha maturidade, comunicação e foco na resolução de problemas.
+👋🏻 Profissional com 2 anos de experiência em Análise de Dados no marketing. Durante os anos de experiência nesta área, pude desenvolver minha maturidade, comunicação e foco na resolução de problemas.
 
 📊 Trabalhar com grande volume de dados despertou o meu interesse pela área de dados. Desde então, busco qualificação, com o objetivo de interpretar dados de maneira eficaz e transformá-los em informações relevantes que possam orientar a tomada de decisão.
 
