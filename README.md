@@ -8,7 +8,7 @@
 
 📊 Trabalhar com grande volume de dados despertou o meu interesse pela área de dados. Desde então, busco qualificação, com o objetivo de interpretar dados de maneira eficaz e transformá-los em informações relevantes que possam orientar a tomada de decisão.
 
-📑 Estou me desenvolvendo em cursos e treinamentos em Análise de Dados, com conhecimentos técnicos em Python, SQL, modelos preditivos de Machine Learning, fundamentos de Estatística e visualização de dados. 
+📑 Estou aprimorando continuamente meus conhecimentos em Análise de Dados, por meio de cursos e treinamentos, complementando minha experiência prática em habilidades técnicas em Python, SQL, modelos preditivos de Machine Learning, fundamentos de Estatística e visualização de dados. 
 
 🎯 Procuro oportunidades no mercado de dados, com o objetivo de aplicar técnicas para otimizar estratégias, solucionar problemas e gerar insights. O meu foco é agregar valor às organizações e contribuir para alcançar os resultados.
 
