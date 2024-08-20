@@ -4,7 +4,11 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-👋🏻 Olá! Profissional com mais de 2 anos de experiência como Analista de Marketing, minha experiência inclui a análise de indicadores e a detecção de oportunidades de aprimoramento através de dados. Busco novos desafios para aplicar meu conhecimento analítico e colaborar para o crescimento das organizações, resolvendo problemas e aprimorando estratégias.
+👋🏻 Olá! Tenho mais de 2 anos de experiência no Marketing, em análise de performance. 
+
+Sou um admirador da tecnologia e dados. Atualmente estou focado em Análise de Dados, com experiência em análise descritiva, interpretação e identificação de oportunidades estratégicas. 
+
+Busco novos desafios onde possa aplicar meu conhecimento analítico para contribuir com o crescimento das organizações, resolvendo problemas e otimizando estratégias.
 
 ## 👨🏻‍💻 Tecnologias:
 
