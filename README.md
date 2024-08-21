@@ -6,7 +6,7 @@
 
 👋🏻 Olá! Tenho mais de 2 anos de experiência no Marketing, em análise de performance. 
 
-Sou um admirador da tecnologia e dados. Atualmente estou focado em Análise de Dados, com experiência em análise descritiva, interpretação e identificação de oportunidades estratégicas. 
+Sou um admirador da tecnologia e dados. Atualmente dedico-me em Análise de Dados, com experiência em análise descritiva, interpretação e identificação de oportunidades estratégicas. 
 
 Busco novos desafios onde possa aplicar meu conhecimento analítico para contribuir com o crescimento das organizações, resolvendo problemas e otimizando estratégias.
 
