@@ -4,11 +4,11 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-👋🏻 Olá! Tenho mais de 2 anos de experiência no Marketing, em análise de performance. 
+👋🏻 Olá! Profissional com mais de 2 anos de experiência no Marketing, na gestão e análise de performance dos anúncios. 
 
-Sou um admirador da tecnologia e dados. No momento, dedico-me em Análise de Dados, com ênfase na análise descritiva, interpretação e identificação de oportunidades estratégicas. 
+No momento, dedico-me à Análise de Dados, aplicando pensamento crítico e analítico na interpretação de informações e identificação de oportunidades para potencializar resultados.
 
-Busco novos desafios onde possa aplicar meu conhecimento analítico para contribuir com o crescimento das organizações, resolvendo problemas e otimizando estratégias.
+Busco novas oportunidades onde possa contribuir com o crescimento das organizações na resolução de problemas por meio de insights baseados em dados.
 
 ## 👨🏻‍💻 Tecnologias:
 
