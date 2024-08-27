@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Profissional com mais de 2 anos de experiência em Marketing no modelo B2C, atuando diretamente na gestão e análise de performance de anúncios. Recentemente, tenho direcionado minha carreira para a análise de dados, com o objetivo de interpretar informações e apoiar a tomada de decisões baseadas em dados. Estou em busca de novas oportunidades onde possa aplicar minhas habilidades para contribuir com o crescimento das organizações e a resolução de problemas através de insights orientados por dados.
+📊 Profissional com mais de 2 anos de experiência em Marketing B2C, com foco na gestão e análise de performance de anúncios. Tenho direcionado minha carreira para a análise de dados, buscando interpretar informações para apoiar a tomada de decisões. Estou em busca de oportunidades onde possa aplicar e expandir minhas habilidades analíticas para contribuir de forma significativa.
 
 ## 👨🏻‍💻 Tecnologias:
 
