@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-📊 Iniciei minha carreira dentro do Marketing com mais de 2 anos de experiência, especializado na gestão e otimização de performance de anúncios. O meu interesse por dados me levou a explorar essa área e desenvolver projetos que compartilho aqui no GitHub. Tenho repositórios de cursos e projetos pessoais relacionados a dados, onde procuro sempre evoluir. Estou em busca de oportunidades para aplicar e expandir minhas habilidades analíticas, contribuindo de forma significativa para a tomada de decisões baseadas em dados.
+📊 Minha carreira começou no Marketing Digital, onde acumulei mais de 2 anos em Marketing B2C, com foco na gestão e otimização de performance de anúncios. Tenho me aprofundado na área de dados, onde procuro transformar dados em recomendações práticas que proporcionem suporte para a tomada de decisões. O meu interesse por dados me levou a explorar essa área e desenvolver projetos que compartilho aqui no GitHub. Tenho repositórios de cursos e projetos pessoais relacionados a dados, onde procuro sempre evoluir. Estou em busca de oportunidades para aplicar e expandir minhas habilidades analíticas, contribuindo de forma significativa para a tomada de decisões baseadas em dados.
 
 ## 👨🏻‍💻 Tecnologias:
 
