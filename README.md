@@ -4,13 +4,15 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Sou um profissional com mais de 2 anos de experiência em Marketing Digital, especializado em Marketing B2C, com foco em gestão e otimização de campanhas de performance nos canais Google Ads e Meta Ads.
+Olá! Possuo mais de 2 anos de experiência em Marketing Digital, com foco na análise de dados de performance de mídia paga e no uso de ferramentas analíticas como o Google Analytics 4 (GA4).
 
-Minhas responsabilidades incluem não apenas a gestão e otimização de anúncios, mas também a análise aprofundada dos resultados com base nos dados fornecidos pelos gerenciadores de tráfego. Utilizo o Google Analytics 4 (GA4) para entender o comportamento dos usuários nos sites dos clientes.
+Elaboro relatórios sobre o desempenho dos anúncios e desenvolvo painéis interativos no Looker Studio, integrando dados de diferentes fontes (Google, Meta, HubSpot) para oferecer uma visão clara e estratégica dos resultados.
 
-Sou responsável por elaborar relatórios detalhados de desempenho das campanhas e desenvolver painéis interativos no Looker Studio. Esses painéis integram dados do Google e Meta, proporcionando uma visão ampla e integrada do desempenho dos anúncios.
+Atualmente, sou responsável por analisar dados de vendas e do marketing no HubSpot, com controle em planilhas e acompanhamento diário de metas e indicadores-chave de desempenho (KPIs). Acompanho a performance de leads qualificados e oportunidades de vendas, contribuindo para o alcance das metas estabelecidas.
 
-Tenho experiência em atendimento ao cliente, onde apresento resultados de maneira clara e objetiva, utilizando técnicas de storytelling para garantir que as informações sejam compreendidas e valorizadas.
+Hard Skills: Google Sheets/Excel, Python, Looker Studio, Google Analytics (GA4), HubSpot, SQL, Estatística básica, Google Ads e Meta Ads.
+
+Soft Skills: Comunicação, adaptabilidade, pensamento analítico, trabalho em equipe.
 
 Além do meu background em Marketing, possuo conhecimento básico em análise de dados utilizando Python e suas principais bibliotecas e SQL para consultas em bancos de dados.
 
