@@ -10,11 +10,11 @@ Elaboro relatórios sobre o desempenho dos anúncios e desenvolvo painéis inter
 
 Atualmente, sou responsável por analisar dados de vendas e do marketing no HubSpot, com controle em planilhas e acompanhamento diário de metas e indicadores-chave de desempenho (KPIs). Acompanho a performance de leads qualificados e oportunidades de vendas, contribuindo para o alcance das metas estabelecidas.
 
+Além do meu background em Marketing, possuo conhecimento básico em análise de dados utilizando Python e suas principais bibliotecas e SQL para consultas em bancos de dados.
+
 Hard Skills: Google Sheets/Excel, Python, Looker Studio, Google Analytics (GA4), HubSpot, SQL, Estatística básica, Google Ads e Meta Ads.
 
 Soft Skills: Comunicação, adaptabilidade, pensamento analítico, trabalho em equipe.
-
-Além do meu background em Marketing, possuo conhecimento básico em análise de dados utilizando Python e suas principais bibliotecas e SQL para consultas em bancos de dados.
 
 ## 👨🏻‍💻 Tecnologias:
 
