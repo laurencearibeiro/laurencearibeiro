@@ -4,17 +4,15 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Olá! Possuo mais de 2 anos de experiência em Marketing Digital, com foco na análise de dados de performance de mídia paga e no uso de ferramentas analíticas como o Google Analytics 4 (GA4).
+Profissional com 3 anos de experiência em Marketing Digital, com foco em organizar e estruturar dados para campanhas de mídia paga e orgânica. Atualmente, sou Assistente de Dados na Amplimed, onde consolido informações de diferentes fontes (Google, Meta, Bing, HubSpot) em formatos como planilhas e arquivos CSV, garantindo a acessibilidade e a clareza dos dados para a equipe.
 
-Elaboro relatórios sobre o desempenho dos anúncios e desenvolvo painéis interativos no Looker Studio, integrando dados de diferentes fontes (Google, Meta, HubSpot) para oferecer uma visão clara e estratégica dos resultados.
+Realizo a leitura e manipulação de dados no Python, utilizando bibliotecas como Pandas, Matplotlib e Seaborn para análises básicas e criação de visualizações. Acompanho diariamente os principais indicadores-chave de desempenho (KPIs) em planilhas e ferramentas como HubSpot, facilitando o suporte às decisões das equipes de marketing e vendas.
 
-Atualmente, sou responsável por analisar dados de vendas e do marketing no HubSpot, com controle em planilhas e acompanhamento diário de metas e indicadores-chave de desempenho (KPIs). Acompanho a performance de leads qualificados e oportunidades de vendas, contribuindo para o alcance das metas estabelecidas.
+Tenho maior afinidade na organização e estruturação de dados, auxiliando na criação de bases sólidas para as análises por meio da utilização de planilhas.
 
-Além do meu background em Marketing, possuo conhecimento básico em análise de dados utilizando Python e suas principais bibliotecas e SQL para consultas em bancos de dados.
+Hard Skills: Google Sheets, Python (Pandas, Matplotlib, Seaborn), Google Analytics (GA4) e SQL.
 
-Hard Skills: Google Sheets/Excel, Python, Looker Studio, Google Analytics (GA4), HubSpot, SQL, Estatística básica, Google Ads e Meta Ads.
-
-Soft Skills: Comunicação, adaptabilidade, pensamento analítico, trabalho em equipe.
+Soft Skills: Organização, adaptabilidade, comunicação e trabalho em equipe.
 
 ## 👨🏻‍💻 Tecnologias:
 
