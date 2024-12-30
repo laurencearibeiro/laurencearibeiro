@@ -4,15 +4,15 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Profissional com 3 anos de experiência em Marketing Digital, com ênfase em organizar e estruturar dados para campanhas de mídia paga e orgânica. Consolido informações de diferentes (Google, Meta, Bing, HubSpot) em formatos como planilhas e arquivos CSV, garantindo a acessibilidade dos dados para a equipe.
+Profissional com 3 anos de experiência em Marketing Digital. Atualmente com ênfase em organizar e estruturar dados para campanhas de mídia paga e orgânica. Consolido informações de diferentes (Google, Meta, Bing, HubSpot) em planilhas, assegurando que os dados estejam disponíveis e estruturados.
 
-Realizo a leitura e manipulação de dados no Python, utilizando bibliotecas como Pandas, Matplotlib e Seaborn para análises básicas e criação de visualizações. Acompanho diariamente os principais indicadores-chave de desempenho (KPIs) em planilhas e ferramentas como HubSpot, facilitando o suporte às decisões das equipes de marketing e vendas.
+Realizo a leitura e manipulação de dados no Python, utilizando bibliotecas como Pandas, Matplotlib e Seaborn para análises e criação de visualizações. Acompanho diariamente os principais indicadores-chave de desempenho (KPIs) e ferramentas, incluindo HubSpot, facilitando o suporte às decisões da equipe de marketing e vendas.
 
-Tenho maior afinidade na organização e estruturação de dados, auxiliando na criação de bases sólidas para as análises por meio da utilização de planilhas.
+Minha maior afinidade está na organização e estruturação de dados, contribuindo para a criação de bases confiáveis que sustentem as análises realizadas por meio de planilhas.
 
-Hard Skills: Google Sheets, Python (Pandas, Matplotlib, Seaborn), Google Analytics (GA4) e SQL.
+Hard Skills: Google Sheets, Python, Google Analytics (GA4) e SQL.
 
-Soft Skills: Organização, adaptabilidade, comunicação e trabalho em equipe.
+Soft Skills: Organização, adaptabilidade e trabalho em equipe.
 
 ## 👨🏻‍💻 Tecnologias:
 
