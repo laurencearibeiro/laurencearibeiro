@@ -6,11 +6,9 @@
 
 Profissional com 3 anos de experiência em Marketing Digital. Atualmente com ênfase em organizar e estruturar dados para campanhas de mídia paga e orgânica. Consolido informações de diferentes (Google, Meta, Bing, HubSpot) em planilhas, assegurando que os dados estejam disponíveis e estruturados.
 
-Realizo a leitura e manipulação de dados no Python, utilizando bibliotecas como Pandas, Matplotlib e Seaborn para análises e criação de visualizações. Acompanho diariamente os principais indicadores-chave de desempenho (KPIs) e ferramentas, incluindo HubSpot, facilitando o suporte às decisões da equipe de marketing e vendas.
+Acompanho diariamente os principais indicadores-chave de desempenho (KPIs) no HubSpot, facilitando o suporte às decisões da equipe de marketing e vendas. Preparo dados de forma eficiente, garantindo a qualidade e a integridade de informações. Realizo a leitura e manipulação de dados no Python, utilizando bibliotecas como Pandas, Matplotlib e Seaborn para análises e criação de visualizações. 
 
-Minha maior afinidade está na organização e estruturação de dados, contribuindo para a criação de bases confiáveis que sustentem as análises realizadas por meio de planilhas.
-
-Hard Skills: Google Sheets, Python, Google Analytics (GA4) e SQL.
+Hard Skills: Google Sheets, Python, Looker Studio, SQL.
 
 Soft Skills: Organização, adaptabilidade e trabalho em equipe.
 
