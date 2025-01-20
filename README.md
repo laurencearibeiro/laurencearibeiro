@@ -6,9 +6,6 @@
 
 Assistente de Dados com experiência em organização e manipulação de informações, utilizando Google Sheets, Python e SQL. Meu objetivo é desenvolver soluções que otimizem o trabalho com dados e tornem a análise mais acessível para equipes e empresas. Sempre explorando novas tecnologias e formas de simplificar processos.
 
-Hard Skills: Google Sheets, Python, Looker Studio, SQL.
-
-Soft Skills: Organização, adaptabilidade e trabalho em equipe.
 
 ## 👨🏻‍💻 Tecnologias:
 
