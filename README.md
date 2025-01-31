@@ -6,9 +6,9 @@
 
 Profissional com 3 anos de experiência em Marketing Digital, atualmente direcionando meu foco para a área de Tecnologia. Recentemente, tive a oportunidade de trabalhar com dados, o que despertou interesse pela área e pelas diferentes formas de aplicá-los para otimizar processos.
 
-Estou iniciando a graduação em Análise e Desenvolvimento de Sistemas para aprofundar minha compreensão técnica e explorar novas possibilidades dentro da área de tecnologia.
+Estou iniciando a graduação em Análise e Desenvolvimento de Sistemas para adquirir meus conhecimentos e habilidades na área.
 
-Acredito no poder do aprendizado contínuo e na adaptação às constantes mudanças do mercado. Estou buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos importantes.
+Acredito no aprendizado contínuo e na adaptação às constantes mudanças do mercado. Estou buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos importantes.
 
 ## 👨🏻‍💻 Tecnologias:
 
