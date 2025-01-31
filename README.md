@@ -4,8 +4,11 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Assistente de Dados com experiência em organização e manipulação de informações, utilizando Google Sheets, Python e SQL. Meu objetivo é desenvolver soluções que otimizem o trabalho com dados e tornem a análise mais acessível para equipes e empresas. Sempre explorando novas tecnologias e formas de simplificar processos.
+Profissional com 3 anos de experiência em Marketing Digital, atualmente direcionando meu foco para a área de Tecnologia. Recentemente, tive a oportunidade de trabalhar com dados, o que despertou interesse pela área e pelas diferentes formas de aplicá-los para otimizar processos.
 
+Estou iniciando a graduação em Análise e Desenvolvimento de Sistemas para aprofundar minha compreensão técnica e explorar novas possibilidades dentro da área de tecnologia.
+
+Acredito no poder do aprendizado contínuo e na adaptação às constantes mudanças do mercado. Estou buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos importantes.
 
 ## 👨🏻‍💻 Tecnologias:
 
