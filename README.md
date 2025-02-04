@@ -4,11 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Profissional com 3 anos de experiência em marketing digital, atualmente direcionando meu foco para a área de Tecnologia. Recentemente, tive a oportunidade de trabalhar com dados, o que despertou meu interesse e objetivo em aplicar essas informações para otimizar processos e contribuir para a melhoria das operações.
-
-Estou iniciando a graduação em Análise e Desenvolvimento de Sistemas para adquirir novos conhecimentos e aprimorar minhas habilidades na área.
-
-Acredito no aprendizado contínuo e na adaptação às constantes mudanças do mercado. Estou em busca de novas oportunidades para aplicar minhas competências e contribuir para projetos relevantes.
+Profissional com experiência em análise de dados e interesse por tecnologia e inovação. Atualmente, estou iniciando a graduação em Análise e Desenvolvimento de Sistemas, com o objetivo de aprofundar meus conhecimentos e desenvolver soluções que otimizem processos e melhorem as operações. Acredito no aprendizado contínuo e na adaptação às constantes mudanças do mercado. Estou em busca de novas oportunidades para aplicar minhas competências e contribuir para projetos relevantes.
 
 ## 👨🏻‍💻 Tecnologias:
 
