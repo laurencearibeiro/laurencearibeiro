@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Profissional com experiência prática em análise de dados, monitoramento de métricas e mensuração de resultados. Tenho interesse em tecnologia e em como os dados podem ser utilizados para otimizar processos. Atualmente, cursando Análise e Desenvolvimento de Sistemas para expandir meus conhecimentos e desenvolver habilidades na área.
+Profissional com experiência em marketing e análise de dados, atuando no monitoramento de métricas e mensuração de resultados. Admiro a tecnologia pela sua constante evolução e pelo impacto que tem em transformar a maneira como as empresas atuam e se conectam com seus clientes. Escolhi o curso de Análise e Desenvolvimento de Sistemas após trabalhar com dados, o que despertou minha curiosidade em entender como as tecnologias podem otimizar processos e decisões. Meu objetivo é expandir meus conhecimentos e explorar novas possibilidades dentro dessa área.
 
 ## 👨🏻‍💻 Tecnologias:
 
