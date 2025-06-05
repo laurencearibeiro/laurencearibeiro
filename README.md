@@ -4,9 +4,7 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurenceribeiro/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999447791)
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, explorando diferentes caminhos dentro da tecnologia. Tenho interesse por dados, automações, bancos de dados, sistemas e formas de tornar processos mais eficientes.
-
-Estou em busca de uma oportunidade para entrar na área e seguir evoluindo com projetos práticos e aprendizado contínuo.
+Atualmente curso Análise e Desenvolvimento de Sistemas, explorando diferentes caminhos dentro da tecnologia. Estou em busca de uma oportunidade e seguir evoluindo com projetos práticos e aprendizado contínuo.
 
 ## 👨🏻‍💻 Tecnologias:
 
